@@ -1,5 +1,5 @@
 #
 
-Demo
+Demo Blog
 
 Adding blogs
